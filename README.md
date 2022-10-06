@@ -3,3 +3,11 @@
 This repository collects Python notebooks complementary to the course "Applied Machine Learning" (4DV117) at Linnaeus University, Sweden.
 
 * 1–Data and learning.ipynb loads the Iris dataset, transforms it into a dataframe and produces boxplots of its features.
+
+## Instructions
+
+1. Open a notebook "*.ipynb" (click on the link when you hoover over it).
+2. Open the notebook in colab (click on the "Open in Colab" link on to of the document. Run anyay if you get a warning, it works and is safe.).
+3. Step through the document top down, read the documentation and run the code as it is (click on the play symbols that show up in the code boxes when you hoover over them).
+4. Optionally, modify code and documentation as you like; it does not get stored back to the repository. 
+5. If you want to keep your changes, download the modified notebook (File -> Download -> .ipynb).
