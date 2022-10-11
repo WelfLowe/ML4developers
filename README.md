@@ -2,7 +2,8 @@
 
 This repository collects Python notebooks complementary to the course "Applied Machine Learning" (4DV117) at Linnaeus University, Sweden.
 
-* 1–Data and learning.ipynb loads the Iris dataset, transforms it into a dataframe and produces boxplots of its features.
+* 1–Data_and_learning.ipynb loads the Iris dataset, transforms it into a dataframe and produces boxplots of its features. Then it trains a logistic regression classifier and evaluates its performance.
+
 
 ## Instructions
 
