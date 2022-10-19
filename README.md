@@ -4,7 +4,7 @@ This repository collects Python notebooks complementary to the course "Applied M
 
 * 1–Data_and_learning.ipynb loads the Iris dataset, transforms it into a dataframe and produces boxplots of its features. Then it trains a logistic regression classifier and evaluates its performance with the AUC evaluation metric.
 * 2-Naive_Bayes_algorithm loads the Iris dataset, transforms it into a dataframe and produces boxplots of its features. Then it trains a Naive Bayesian  classifier based on only one feature and all features, resp. Then it evaluates performances of the classifiers using the accuracy metric and a confusion matrix.
-* 3-Numerical_Regression.ipynb loads the Boston dataset, trains two numerical regressopn models (linear and KNN), evaluates their performances and visualizes the models. Additionally it deminstrates variants of feature selection.
+* 3-Numerical_Regression.ipynb loads the Boston dataset, trains two numerical regressopn models (linear and KNN), evaluates their performances and visualizes the models. Additionally it demonstrates variants of feature selection.
 
 
 ## Instructions
