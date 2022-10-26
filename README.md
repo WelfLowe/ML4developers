@@ -7,6 +7,7 @@ This repository collects Python notebooks complementary to the course "Applied M
 * 3-Numerical_Regression.ipynb loads the Boston dataset, trains two numerical regression models (linear and KNN), evaluates their performances and visualizes the models. Additionally it demonstrates variants of feature selection.
 * 4_Decision_Support.ipynb uses decision trees for claasification and regression. Therefore, it loads the Iris and the Boston dataset, resp., trains two decision tree models (classification of Iris and refression of Bosten), and visualizes the models. 
 * 5_Kernel_Methods_and_SVMs.ipynb loads the Iris dataset, normalizes the data and applies SVM classification. It demonstrates the effects of cross validation on accuracy assessment and parameter selection.
+* 6_Neural_Networks.ipynb under construction.
 
 ## Instructions
 
